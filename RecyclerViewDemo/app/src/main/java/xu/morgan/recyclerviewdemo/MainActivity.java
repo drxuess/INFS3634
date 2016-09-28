@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        linearButton = (Button) findViewById(R.id.linear_add_fab);
-        gridButton = (Button) findViewById(R.id.grid_add_fab);
+        linearButton = (Button) findViewById(R.id.linear_button);
+        gridButton = (Button) findViewById(R.id.grid_button);
 
         linearButton.setOnClickListener(new View.OnClickListener() {
             @Override

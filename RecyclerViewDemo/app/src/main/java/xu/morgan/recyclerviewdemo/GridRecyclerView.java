@@ -15,6 +15,7 @@ public class GridRecyclerView extends AppCompatActivity {
         setContentView(R.layout.activity_grid_recycler_view);
         Toolbar toolbar = (Toolbar) findViewById(R.id.grid_toolbar);
         setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.grid_add_fab);
         fab.setOnClickListener(new View.OnClickListener() {
