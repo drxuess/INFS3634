@@ -3,4 +3,7 @@
     <string name="action_settings">Settings</string>
     <string name="linear_recyclerview">Linear RecyclerView</string>
     <string name="grid_recyclerview">Grid RecyclerView</string>
+    <string name="sample_text">Lorem Ipsum</string>
+    <string name="shopping_item">Shopping Item</string>
+    <string name="price">Price</string>
 </resources>
