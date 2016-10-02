@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataCallbackDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_text">loremipsum</string>
+</resources>
