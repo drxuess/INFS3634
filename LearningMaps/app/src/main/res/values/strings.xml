@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearningMaps</string>
+    <string name="title_activity_maps">My Map</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

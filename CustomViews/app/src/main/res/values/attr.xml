@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PizzaView">
+        <attr name="slices" format="integer"/>
+        <attr name="strokeSize" format="integer"/>
+    </declare-styleable>
+</resources>
